@@ -10,8 +10,6 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-title: "Nathaniel Chen"
-
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
@@ -116,8 +114,8 @@ analytics:
 author:
   name             : "Nathaniel Chen"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am a PhD Student at Princeton University studying **Machine Learning** and **Plasma Physics**"
-  location         : "New Jersey"
+  bio              : "I am a PhD Student at Princeton University's **Plasma Control Group**"
+  location         : "Princeton, New Jersey"
   email            : "nathaniel@princeton.edu"
   links:
     - label: "Email"
