@@ -3,16 +3,10 @@ permalink: /projects/
 title: "Projects"
 ---
 
-# Projects
-
-A selection of academic, technical, and outreach initiatives I’ve contributed to—spanning plasma control, interdisciplinary research, educational platforms, and scientific community-building.
-
----
-
 ## 🌐 Website Maintenance & Development
 
 - [**ELEDUSA**](https://www.eledusa.com/en)  
-  Maintaining an educational leadership platform that supports international collaboration and mentorship programs.
+  Maintaining an updated website for E-Long Electric Company, LTD.
 
 - [**Plasma Control Group @ Princeton**](https://control.princeton.edu/)  
   Managing and updating the research group website that highlights active work on fusion control systems, publications, and experimental campaigns.
