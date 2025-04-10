@@ -10,3 +10,5 @@ I am a **PhD** candidate at **Princeton University**, exploring the intersection
 - Machine Learning
 - Data Science
 - Plasma Physics
+
+{% include stocks.html %}
