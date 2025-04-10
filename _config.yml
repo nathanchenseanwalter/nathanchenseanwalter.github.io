@@ -20,7 +20,7 @@ title                    : "Nathaniel Chen"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Nathaniel Chen"
-description              : "Personal website of Nathaniel Chen. I am a PhD Student at Princeton University studying Machine Learning and Physics"
+description              : "Personal website of Nathaniel Chen. Princeton University studying Machine Learning and Physics"
 url                      : "https://nathanielchen.net" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/nathanchenseanwalter/nathanchenseanwalter.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
