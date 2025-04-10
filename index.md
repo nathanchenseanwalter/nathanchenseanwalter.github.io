@@ -3,7 +3,7 @@ layout: single
 author_profile: true
 ---
 
-{% include stocks.html %}
+{% include widgets/stocks.html %}
 
 I am at **Princeton University**, exploring the intersection of fusion energy and artificial intelligence. My projects involve:
 
@@ -12,3 +12,5 @@ I am at **Princeton University**, exploring the intersection of fusion energy an
 - Machine Learning
 - Data Science
 - Plasma Physics
+
+{% include widgets/bible.html %}

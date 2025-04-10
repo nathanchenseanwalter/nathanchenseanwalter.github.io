@@ -1,4 +1,0 @@
----
-permalink: /presentations/
-title: "Presentations"
----
